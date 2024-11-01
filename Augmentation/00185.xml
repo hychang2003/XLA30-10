@@ -1,0 +1,38 @@
+<annotation>
+	<folder>PANO 225 - Copy</folder>
+	<filename>PN0242.jpg</filename>
+	<path>F:\PANO 225 - Copy\PN0242.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2473</width>
+		<height>1252</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>1140</ymin>
+			<xmax>431</xmax>
+			<ymax>1222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>1221</ymin>
+			<xmax>441</xmax>
+			<ymax>1288</ymax>
+		</bndbox>
+	</object>
+</annotation>

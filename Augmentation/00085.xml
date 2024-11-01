@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PANO 225 - Copy</folder>
+	<filename>PN0118.jpg</filename>
+	<path>F:\PANO 225 - Copy\PN0118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2473</width>
+		<height>1252</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>623</ymin>
+			<xmax>876</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>

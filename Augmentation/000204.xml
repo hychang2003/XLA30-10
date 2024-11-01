@@ -1,0 +1,26 @@
+<annotation>
+	<folder>edit_data_rang-20231208T121541Z-001</folder>
+	<filename>PN0070.jpg</filename>
+	<path>F:\DuLieuRang\UpdateData\edit_data_rang-20231208T121541Z-001\PN0070.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2473</width>
+		<height>1252</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1547</xmin>
+			<ymin>849</ymin>
+			<xmax>1607</xmax>
+			<ymax>913</ymax>
+		</bndbox>
+	</object>
+</annotation>
